@@ -13,7 +13,7 @@ vulnerabiliity, open a GitHub issue. When filing a bug, remember that the better
 written the bug is, the more easier and more likely it is to be reproduced and
 fixed.
 
-## Creating a discussion
+## Creating discussions
 
 If you don't want to create an issue but you prefer to discuss with the community about anything you have in mind then it is better to create a discussion.
 It will allow you to share your thoughts with everyone and will allow the community to be aware of certain aspects they wouldn't have thought about.
