@@ -17,6 +17,7 @@ fixed.
 
 If you don't want to create an issue but you prefer to discuss with the community about anything you have in mind then it is better to create a discussion.
 It will allow you to share your thoughts with everyone and will allow the community to be aware of certain aspects they wouldn't have thought about.
+
 In any case, an issue can be created from a discussion, no worry!
 
 ## Pull request process
